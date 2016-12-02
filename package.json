@@ -1,0 +1,11 @@
+{
+	"name": "qr-rpi-reader",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"canvas":"*",
+		"jsqr":"*",
+		"raspicam":"*",
+		"rpi-leds":"*"
+	}
+}
